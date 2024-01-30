@@ -80,3 +80,6 @@
     </tr>
  </table>
 </div>
+
+<h2 align="left">Architecture with Serverless Hosting</h2>
+<img src="./assets/architecture.png" width=100% height=250px>
