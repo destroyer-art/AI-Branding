@@ -20,4 +20,13 @@
 |**Styling**|<p align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/640px-Tailwind_CSS_Logo.svg.png" width=40px alt="tailwindcss"></p>|
 |**Hosting**|<p align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Ionicons_logo-vercel.svg/640px-Ionicons_logo-vercel.svg.png" width=40px alt="vercel"></p>|
 
+<h2 align="left">Backend Techstack</h2>
+
+|Type|Tech|
+|-|-|
+|**Language**|<p align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/640px-Python-logo-notext.svg.png" width=40px alt="python"></p>|
+|**Framework**|<p align="center"><img src="https://fastapi.tiangolo.com/img/icon-white.svg" width=40px alt="reactjs"></p>|
+|**Hosting**|<p align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/640px-Amazon_Web_Services_Logo.svg.png" width=40px alt="aws api gateway"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Amazon_Lambda_architecture_logo.png/640px-Amazon_Lambda_architecture_logo.png" width=40px alt="aws lambda"></p>|
+|**Others**|<p align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/GPT-4.png/640px-GPT-4.png" width=40px alt="openai"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Docker-svgrepo-com.svg/640px-Docker-svgrepo-com.svg.png" width=40px alt="docker"></p>|
+
 
